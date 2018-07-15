@@ -20,16 +20,18 @@
 }
 .aboutme{
     border:10px solid black;   
-    
+    background-color:darkorange;
+
 }
 
 .footer{
     display:flex;
     justify-content:space-between;
     padding:10px;
-    
+    color:white;
 }
 
 .headshot{
     border-radius:90%;
 }
+
